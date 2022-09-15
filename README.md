@@ -1,0 +1,2 @@
+# wc
+Exercises on 'wc' 
